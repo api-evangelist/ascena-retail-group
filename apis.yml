@@ -1,7 +1,11 @@
 aid: ascena-retail-group
-url: https://raw.githubusercontent.com/api-evangelist/ascena-retail-group/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ascena-retail-group/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.ascena-retail-group.com
+description: >-
+  Ascena Retail Group is a specialty apparel retailer that operates multiple women's
+  and tween-girl clothing brands through retail stores, outlets, and e-commerce.
