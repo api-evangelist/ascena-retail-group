@@ -1,7 +1,9 @@
 ---
 title: Ascena Retail Group ICT Spend & Tech Priorities - GlobalData
 url: https://www.globaldata.com/company-profile/ascena-retail-group-inc/premium-data/ict-spend-tech-priorities/?scalar=true&pid=77422&sid=27
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ascena Retail Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: ascena Retail Group, Inc. To Acquire ANN INC. For $47 ...
 url: https://www.prnewswire.com/news-releases/ascena-retail-group-inc-to-acquire-ann-inc-for-47-per-share-in-accretive-transaction-300084673.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ascena Retail Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
