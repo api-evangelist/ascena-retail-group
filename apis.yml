@@ -63,6 +63,12 @@ apis:
       - type: Documentation
         url: https://www.anntaylor.com/
 common:
+  - type: Plans
+    url: plans/ascena-retail-group-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ascena-retail-group-rate-limits.yml
+  - type: FinOps
+    url: finops/ascena-retail-group-finops.yml
   - type: DomainSecurity
     url: security/ascena-retail-group-domain-security.yml
   - type: LinkedIn
