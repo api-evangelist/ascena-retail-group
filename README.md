@@ -1,4 +1,4 @@
-# Ascena Retail Group (ascena-retail-group)
+# Ascena Retail Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,62 +66,58 @@
 
 Ascena Retail Group was a specialty apparel retailer that operated multiple women's and tween-girl clothing brands through retail stores, outlets, and e-commerce. The company operated brands including Ann Taylor, LOFT, Lane Bryant, Catherines, Cacique, and others. Ascena filed for Chapter 11 bankruptcy in July 2020 and sold off its brands. Ann Taylor and LOFT were acquired by Sycamore Partners in 2020 and continue to operate. Lane Bryant and Catherines were also sold to new owners. The company did not expose a public developer API during its operation. Current API resources, if any, exist under the successor brand owners.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ascena-retail-group/refs/heads/main/apis.yml)
+**Areas:** Retail · Fashion · Apparel · E-Commerce
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Ascena Retail Group on APIs.io
 
-## Tags:
+Everything profiled for Ascena Retail Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ascena-retail-group/](https://apis.io/providers/ascena-retail-group/)** — or go straight to one of the APIs or properties below.
 
- - Retail, Fashion, Apparel, E-Commerce
+### APIs (1)
 
-## Timestamps
+- [Ann Taylor / LOFT E-Commerce Platform](https://apis.io/apis/ascena-retail-group/ann-taylor-api/) — Ann Taylor and LOFT (formerly Ascena brands, now owned by Sycamore Partners) operate e-commerce platforms with standard retail APIs for product catalog,…
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-19
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-### Ann Taylor / LOFT E-Commerce Platform
-Ann Taylor and LOFT (formerly Ascena brands, now owned by Sycamore Partners) operate e-commerce platforms with standard retail APIs for product catalog, order management, loyalty programs, and customer accounts.
+#### Security (1)
 
-**Human URL:** [https://www.anntaylor.com/](https://www.anntaylor.com/)
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags:
+- [Ascena Retail Group Domain Security](https://apis.io/security/ascena-retail-group/ascena-retail-group-domain-security/)
 
- - Fashion, Retail, Women's Apparel, E-Commerce
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://www.anntaylor.com/)
+- [Ascena Retail Group Plans Pricing](https://apis.io/plans/ascena-retail-group/ascena-retail-group-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
 
-- [Ann Taylor Website](https://www.anntaylor.com/)
-- [LOFT Website](https://www.loft.com/)
+Published request limits.
 
-## Features
+- [Ascena Retail Group Rate Limits](https://apis.io/rate-limits/ascena-retail-group/ascena-retail-group-rate-limits/)
 
-| Name | Description |
-|------|-------------|
-| Multi-Brand Retail Operations | Ascena operated multiple fashion brands targeting different women's and tween demographics through retail stores, outlet locations, and e-commerce channels. |
-| Loyalty Programs | Brand-specific loyalty and rewards programs for frequent shoppers across Ann Taylor, LOFT, Lane Bryant, and other brands. |
-| Omnichannel Commerce | Integrated in-store and online shopping experiences across all Ascena brands, including ship-from-store and buy-online-pickup-in-store. |
+#### FinOps (1)
 
-## Use Cases
+What the API costs to run, by operation.
 
-| Name | Description |
-|------|-------------|
-| Fashion Retail Shopping | Customers shop for women's and tween apparel across Ascena brand stores and e-commerce platforms. |
-| Loyalty and Rewards | Repeat customers earn and redeem rewards points through brand loyalty programs. |
+- [Ascena Retail Group Finops](https://apis.io/finops/ascena-retail-group/ascena-retail-group-finops/)
 
-## Integrations
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Sycamore Partners | Ann Taylor and LOFT were acquired by Sycamore Partners in 2020 following Ascena's bankruptcy filing. |
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Maintainers
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ascena Retail Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ascena-retail-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
