@@ -1,0 +1,62 @@
+specification: API Commons Plans
+specificationVersion: '0.1'
+schema: https://raw.githubusercontent.com/api-evangelist/interface-research/main/schema/api-commons.yml#/$defs/Plans
+provider: Ascena Retail Group
+providerId: ascena-retail-group
+created: '2026-05-04'
+# Provenance stamped 2026-08-11: this artifact was written by the API Evangelist
+# bulk sweep dated 2026-05-04, not harvested from the provider. See roadmap#35.
+method: generated
+modified: '2026-05-05'
+reconciled: false
+tags:
+  - Retail
+  - Fashion
+  - Apparel
+  - E-Commerce
+description: Ascena Retail Group ceased to exist as an operating entity after its July 2020 Chapter 11
+  filing; brands (Ann Taylor, LOFT, Lane Bryant, Catherines) were sold to Sycamore Partners and others
+  and now operate under the Knitwell Group umbrella. There is no Ascena public API or pricing.
+sources:
+  - https://knitwellgroup.com/
+notes: Ascena no longer operates. Successor entity is Knitwell Group, which also does not publish a
+  public developer/API program. This is a historical record artifact.
+plans:
+  - id: ascena-retail-group-defunct
+    name: Defunct Entity (No API Program)
+    type: enterprise
+    description: Ascena Retail Group is no longer an operating entity; no API or developer program
+      exists or is succeeded.
+    entries:
+      - label: API Access
+        name: api_access
+        type: subscription
+        metric: varies
+        limit: -1
+        timeFrame: month
+        geo: US
+        unit: 1
+        price: not applicable (entity defunct)
+        userMultiplied: false
+    elements:
+      - name: Defunct Entity
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+x-canonical:
+  generated: '2026-11-01'
+  vocabulary: engine/economics/plans-canonical.yml
+  models:
+  - subscription
+  units:
+  - negotiated
+  plans:
+  - name: Defunct Entity (No API Program)
+    access: enterprise
+    model: subscription
+    model_how: derived
+    units:
+    - negotiated
+    periods:
+    - month
